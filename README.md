@@ -34,7 +34,7 @@
 	- HEADER = application/xml
 
 - http://localhost:51487/api/entries
-	- raw / json / post
+	- raw / json / post / with the following body
 ```json
 {
   "date": "1/1/2017",
@@ -44,6 +44,9 @@
   "exclude": false,
   "notes": null
 }
+
+= 201 Created response.
+
 ```
 - `[HttpGet]` = http method attributes  vs. http method names `Get()` for EntriesController.cs, and may use `GetEntries()`
 - Nuget > simpleinjector.integration.webapi.webhost.quickstart
