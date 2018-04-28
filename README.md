@@ -2,6 +2,7 @@
 # Building Services with ASP.NET Web API
 
 ## Fitness Frog Client App
+https://teamtreehouse.com/library/welcome-to-the-fitness-frog-client-app
 
 ## Supported User Actions
 
