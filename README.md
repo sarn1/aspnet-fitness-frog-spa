@@ -4,6 +4,8 @@
 ## Fitness Frog Client App
 https://teamtreehouse.com/library/welcome-to-the-fitness-frog-client-app
 
+![screenshot](https://github.com/sarn1/example-aspnet-fitness-frog-api/blob/master/screenshot.png)
+
 ## Supported User Actions
 
 * Viewing a list of entries
